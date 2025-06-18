@@ -1,4 +1,4 @@
-# Murder-Mystery-and-Model-Bias-Research-Paper
+# Evaluating Race, Gender, and Age Bias in Large-Language Models via Murder Mystery Games Research Paper
 
 Project Repo for BC3997: LLM Foundations & Ethics Final Semester Project! By Kristy Martinez, Umme Raisah, Raul Hinojos
 
